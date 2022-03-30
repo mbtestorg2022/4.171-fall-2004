@@ -11,6 +11,7 @@ description: In this handout a description of the day to day workings and proces
   the buildings themselves.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/4-171-the-space-between-workshop-fall-2004/775e4fa79eff13fb3cca1e3a379dd561_explor_prototype.pdf
 file_type: application/pdf
+parent_uid: 4d869bd3-39d1-9104-3d20-4c9ff2f9fa05
 resourcetype: Document
 title: explor_prototype.pdf
 uid: 775e4fa7-9eff-13fb-3cca-1e3a379dd561
